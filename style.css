@@ -205,6 +205,8 @@ body {
     text-align: center;
     gap: 30px;
     margin-top: 150px;
+  min-height: 50vh;
+
 
   }
 
