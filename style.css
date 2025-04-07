@@ -211,7 +211,7 @@ nav {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-top: 5px;
+  /* margin-top: 5px; */
 }
 
 .hero-img img {
@@ -268,14 +268,14 @@ nav {
 .heading {
   text-align: center;
   margin: 50px 0;
-  font-weight: 900 !important;
+  font-weight: 700 !important;
 }
 
 .heading h1 {
   font-size: 40px;
   color: #333;
   margin-bottom: 20px;
-  font-weight: 900 !important;
+  font-weight: 700 !important;
 }
 
 .wrapper {
