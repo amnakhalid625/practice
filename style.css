@@ -89,11 +89,12 @@ nav {
   flex-direction: column;
   padding: 1rem;
   z-index: 1000;
-  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
 
 /* Mobile Styles */
 @media (max-width: 768px) {
+
   .nav-links,
   .search-box,
   .icons {
@@ -114,7 +115,7 @@ nav {
     top: 60px;
     left: 0;
     width: 100%;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
     z-index: 5;
   }
 
@@ -227,7 +228,7 @@ nav {
     text-align: center;
     gap: 30px;
     /* margin-top: 150px; */
-  min-height: 45vh;
+    min-height: 45vh;
 
 
   }
