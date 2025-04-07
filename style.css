@@ -245,6 +245,12 @@ body {
   text-align: center;
   margin: 50px 0;
 }
+.heading h1 {
+  font-size: 40px;
+  color: #333;
+  margin-bottom: 20px;
+  font-weight: 900 !important;
+}
 
 .wrapper {
   display: flex;
@@ -253,11 +259,7 @@ body {
   flex-direction: column;
 }
 
-.wrapper h1 {
-  font-size: 36px;
-  color: #333;
-  margin-bottom: 20px;
-}
+
 
 .wrapper p {
   font-size: 16px;
@@ -306,14 +308,14 @@ body {
   padding: 20px;
 }
 
-.card-content h2 {
+.card-content h3 {
   font-size: 22px;
   color: #333;
   margin-bottom: 10px;
 }
 
 .card-content p {
-  font-size: 14px;
+  font-size: 12px;
   color: #666;
   margin-bottom: 15px;
 }
@@ -330,5 +332,5 @@ body {
 }
 
 .card-content a:hover {
-  background: linear-gradient(to right, #ff3cac, #784ba0);
+  background-color: #EA0B92 !important;
 }
