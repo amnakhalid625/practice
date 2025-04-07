@@ -199,7 +199,7 @@ body {
   border-radius: 20px;
 }
 
-@media (max-width: 991.98px) {
+@media (max-width: 991px) {
   .hero {
     flex-direction: column;
     padding: 30px 20px;
